@@ -1,0 +1,19 @@
+fullstack-app/
+│
+├── backend/
+│   ├── server.js
+│   ├── package.json
+│   └── Dockerfile
+│
+├── frontend/
+│   ├── index.html
+│   ├── app.js
+│   └── Dockerfile
+│
+├── k8s/
+│   ├── backend-deployment.yaml
+│   ├── frontend-deployment.yaml
+│   ├── backend-service.yaml
+│   └── frontend-service.yaml
+│
+└── README.md
